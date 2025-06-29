@@ -1,0 +1,473 @@
+2025-06-24 17:08:36.754	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 17:08:36.757	info	deej.config                	Loaded config successfully
+2025-06-24 17:08:36.757	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/usbTTY0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 17:08:36.757	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-24 17:08:36.784	info	deej                       	Run loop starting
+2025-06-24 17:08:36.784	warn	deej.serial                	Failed to open serial connection	{"error": "open /dev/usbTTY0: no such file or directory"}
+2025-06-24 17:08:36.784	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: open /dev/usbTTY0: no such file or directory"}
+2025-06-24 17:08:36.784	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "/dev/usbTTY0"}
+2025-06-24 17:08:36.784	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to /dev/usbTTY0!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2025-06-24 17:08:36.791	info	deej                       	Stopping
+2025-06-24 17:08:39.774	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 17:08:39.777	info	deej.config                	Loaded config successfully
+2025-06-24 17:08:39.777	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/usbTTY0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 17:08:39.778	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-24 17:08:39.802	info	deej                       	Run loop starting
+2025-06-24 17:08:39.802	warn	deej.serial                	Failed to open serial connection	{"error": "open /dev/usbTTY0: no such file or directory"}
+2025-06-24 17:08:39.802	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: open /dev/usbTTY0: no such file or directory"}
+2025-06-24 17:08:39.802	warn	deej                       	Provided COM port seems wrong, notifying user and closing	{"comPort": "/dev/usbTTY0"}
+2025-06-24 17:08:39.802	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to /dev/usbTTY0!", "message": "This serial port doesn't exist, check your configuration and make sure it's set correctly."}
+2025-06-24 17:08:39.809	info	deej                       	Stopping
+2025-06-24 17:08:55.931	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 17:08:55.935	info	deej.config                	Loaded config successfully
+2025-06-24 17:08:55.935	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 17:08:55.935	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<3 audio sessions>"}
+2025-06-24 17:08:55.959	info	deej                       	Run loop starting
+2025-06-24 17:08:55.959	warn	deej.serial                	Failed to open serial connection	{"error": "open /dev/ttyUSB0: permission denied"}
+2025-06-24 17:08:55.959	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: open /dev/ttyUSB0: permission denied"}
+2025-06-24 17:08:55.959	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "/dev/ttyUSB0"}
+2025-06-24 17:08:55.959	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to /dev/ttyUSB0!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2025-06-24 17:08:55.962	info	deej                       	Stopping
+2025-06-24 17:08:59.675	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 17:08:59.678	info	deej.config                	Loaded config successfully
+2025-06-24 17:08:59.678	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 17:08:59.678	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<3 audio sessions>"}
+2025-06-24 17:08:59.704	info	deej                       	Run loop starting
+2025-06-24 17:08:59.704	warn	deej.serial                	Failed to open serial connection	{"error": "open /dev/ttyUSB0: permission denied"}
+2025-06-24 17:08:59.704	warn	deej                       	Failed to start first-time serial connection	{"error": "open serial connection: open /dev/ttyUSB0: permission denied"}
+2025-06-24 17:08:59.704	warn	deej                       	Serial port seems busy, notifying user and closing	{"comPort": "/dev/ttyUSB0"}
+2025-06-24 17:08:59.704	info	deej.notifier              	Sending toast notification	{"title": "Can't connect to /dev/ttyUSB0!", "message": "This serial port is busy, make sure to close any serial monitor or other deej instance."}
+2025-06-24 17:08:59.707	info	deej                       	Stopping
+2025-06-24 18:00:12.249	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 18:00:12.281	info	deej.config                	Loaded config successfully
+2025-06-24 18:00:12.281	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 18:00:12.281	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-24 18:00:12.281	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-24 18:00:12.282	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-24 18:00:12.282	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-24 18:00:12.282	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-24 18:00:12.327	info	deej                       	Run loop starting
+2025-06-24 18:00:12.338	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-24 18:00:12.933	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-24 18:00:25.523	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 18:08:11.597	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 18:08:38.772	warn	deej.sessions.discord      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-24 18:08:38.772	warn	deej.sessions.discord      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-24 18:08:38.772	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-24 18:08:38.774	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-24 18:09:24.999	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-24 19:26:11.996	info	deej                       	Stopping
+2025-06-24 19:26:41.526	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 19:26:41.557	info	deej.config                	Loaded config successfully
+2025-06-24 19:26:41.557	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 19:26:41.557	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-24 19:26:41.557	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-24 19:26:41.557	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-24 19:26:41.557	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-24 19:26:41.557	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-24 19:26:41.602	info	deej                       	Run loop starting
+2025-06-24 19:26:41.613	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-24 19:26:42.208	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-24 19:55:49.913	info	deej                       	Stopping
+2025-06-24 19:56:21.557	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 19:56:21.585	info	deej.config                	Loaded config successfully
+2025-06-24 19:56:21.585	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 19:56:21.586	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-24 19:56:21.586	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-24 19:56:21.586	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-24 19:56:21.586	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-24 19:56:21.586	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-24 19:56:21.631	info	deej                       	Run loop starting
+2025-06-24 19:56:21.642	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-24 19:56:22.237	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-24 19:57:18.220	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 19:58:11.537	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-24 20:40:01.409	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 21:57:15.992	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-24 22:14:46.677	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 22:22:00.953	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-24 23:04:54.997	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-24 23:07:01.383	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 23:19:34.403	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 23:24:57.611	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-24 23:27:53.951	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-24 23:30:26.846	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
+2025-06-24 23:37:50.277	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-24 23:40:34.062	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-24 23:50:25.893	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-24 23:51:00.650	info	deej                       	Stopping
+2025-06-24 23:59:06.430	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-24 23:59:06.462	info	deej.config                	Loaded config successfully
+2025-06-24 23:59:06.462	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-24 23:59:06.462	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-24 23:59:06.462	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-24 23:59:06.462	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-24 23:59:06.462	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-24 23:59:06.462	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-24 23:59:06.493	info	deej                       	Run loop starting
+2025-06-24 23:59:06.504	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-24 23:59:07.066	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-25 00:08:36.020	info	deej                       	Stopping
+2025-06-25 00:09:04.738	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-25 00:09:04.773	info	deej.config                	Loaded config successfully
+2025-06-25 00:09:04.773	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-25 00:09:04.773	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-25 00:09:04.773	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-25 00:09:04.773	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-25 00:09:04.773	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-25 00:09:04.773	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-25 00:09:04.807	info	deej                       	Run loop starting
+2025-06-25 00:09:04.818	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-25 00:09:05.380	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-25 01:15:40.014	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-25 02:26:43.131	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-25 02:28:37.329	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-25 03:08:54.391	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-25 03:10:38.763	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-25 04:04:20.467	info	deej                       	Stopping
+2025-06-25 14:00:47.197	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-25 14:00:47.228	info	deej.config                	Loaded config successfully
+2025-06-25 14:00:47.228	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-25 14:00:47.228	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-25 14:00:47.228	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-25 14:00:47.229	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-25 14:00:47.229	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-25 14:00:47.229	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-25 14:00:47.263	info	deej                       	Run loop starting
+2025-06-25 14:00:47.273	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-25 14:00:47.835	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 6}
+2025-06-25 14:00:47.836	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-25 14:11:30.550	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-25 14:11:30.585	info	deej.config                	Loaded config successfully
+2025-06-25 14:11:30.585	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-25 14:11:30.585	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-25 14:11:30.585	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-25 14:11:30.586	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-25 14:11:30.586	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-25 14:11:30.586	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-25 14:11:30.616	info	deej                       	Run loop starting
+2025-06-25 14:11:30.627	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-25 14:11:31.189	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-25 15:20:08.256	info	deej                       	Stopping
+2025-06-25 19:45:15.235	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-25 19:45:15.269	info	deej.config                	Loaded config successfully
+2025-06-25 19:45:15.269	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-25 19:45:15.269	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-25 19:45:15.269	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-25 19:45:15.269	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-25 19:45:15.269	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-25 19:45:15.269	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-25 19:45:15.301	info	deej                       	Run loop starting
+2025-06-25 19:45:15.312	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-25 19:45:15.907	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-26 01:02:09.126	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 01:28:17.573	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 01:28:22.036	warn	deej.sessions.sober        	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-26 01:28:22.036	warn	deej.sessions.sober        	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-26 01:28:22.036	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-26 01:28:22.036	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-26 01:28:36.024	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 01:30:40.414	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-26 01:34:42.900	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:17:52.204	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-26 02:20:42.321	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-26 02:22:14.806	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:25:13.881	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:27:24.265	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:29:54.532	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:30:48.618	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:31:33.778	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:32:22.701	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:34:03.845	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:35:48.586	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:36:37.243	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-26 02:37:39.454	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-26 02:45:28.439	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-26 02:59:09.056	info	deej                       	Stopping
+2025-06-26 20:24:01.701	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-26 20:24:01.739	info	deej.config                	Loaded config successfully
+2025-06-26 20:24:01.739	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-26 20:24:01.739	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-26 20:24:01.739	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-26 20:24:01.739	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-26 20:24:01.739	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-26 20:24:01.739	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-26 20:24:01.774	info	deej                       	Run loop starting
+2025-06-26 20:24:01.785	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-26 20:24:02.380	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-26 23:50:39.907	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-27 01:35:12.673	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-27 01:38:04.917	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-27 02:04:16.608	info	deej                       	Stopping
+2025-06-27 19:04:23.534	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-27 19:04:23.569	info	deej.config                	Loaded config successfully
+2025-06-27 19:04:23.569	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-27 19:04:23.569	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-27 19:04:23.569	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-27 19:04:23.570	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-27 19:04:23.570	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-27 19:04:23.570	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-27 19:04:23.601	info	deej                       	Run loop starting
+2025-06-27 19:04:23.612	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-27 19:04:24.207	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-27 19:04:43.857	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-27 22:51:11.998	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-27 22:52:18.505	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-06-27 23:05:49.344	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-27 23:08:13.549	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-27 23:23:28.328	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-27 23:27:06.133	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-27 23:31:28.031	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-06-29 02:13:38.704	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-29 02:13:38.738	info	deej.config                	Loaded config successfully
+2025-06-29 02:13:38.738	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-29 02:13:38.738	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-06-29 02:13:38.738	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-06-29 02:13:38.738	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-06-29 02:13:38.738	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-06-29 02:13:38.738	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-06-29 02:13:38.769	info	deej                       	Run loop starting
+2025-06-29 02:13:38.780	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-29 02:13:39.376	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-29 11:04:39.475	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<37 audio sessions>"}
+2025-06-29 11:05:24.516	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<37 audio sessions>"}
+2025-06-29 11:05:37.970	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:37.971	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:37.971	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.017	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.018	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.018	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.032	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.032	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.032	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.045	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.045	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.045	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.120	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.123	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.123	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.181	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.181	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.181	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.184	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.184	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.184	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.184	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.184	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.184	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.184	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.185	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.186	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.187	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.188	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.189	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.190	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.191	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.192	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.193	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.194	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.195	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.196	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to get session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions.zen-bin      	Failed to set session volume	{"error": "pulseaudio: no such entity"}
+2025-06-29 11:05:38.197	warn	deej.sessions              	Failed to set target session volume	{"error": "adjust session volume: pulseaudio: no such entity"}
+2025-06-29 11:05:38.198	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2025-06-29 11:05:44.244	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2025-06-29 11:18:26.611	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2025-06-29 11:31:09.534	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2025-06-29 11:42:04.054	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<13 audio sessions>"}
+2025-06-29 17:23:40.003	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-29 17:23:40.007	info	deej.config                	Loaded config successfully
+2025-06-29 17:23:40.007	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-29 17:23:40.007	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<3 audio sessions>"}
+2025-06-29 17:23:40.032	info	deej                       	Run loop starting
+2025-06-29 17:23:40.043	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-29 17:23:40.638	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-29 17:43:17.510	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-29 17:45:59.031	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-29 18:14:41.603	info	deej                       	Stopping
+2025-06-29 20:04:00.100	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-29 20:04:00.105	info	deej.config                	Loaded config successfully
+2025-06-29 20:04:00.105	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-29 20:04:00.105	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-29 20:04:00.132	info	deej                       	Run loop starting
+2025-06-29 20:04:00.142	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-29 20:04:00.704	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-29 20:06:49.279	info	deej.tray                  	Quit menu item clicked, stopping
+2025-06-29 20:06:49.279	info	deej                       	Stopping
+2025-06-29 20:06:57.184	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-06-29 20:06:57.188	info	deej.config                	Loaded config successfully
+2025-06-29 20:06:57.188	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-06-29 20:06:57.188	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-06-29 20:06:57.214	info	deej                       	Run loop starting
+2025-06-29 20:06:57.221	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-06-29 20:06:57.221	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-06-29 20:06:57.253	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 5}
+2025-06-29 20:06:57.255	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
