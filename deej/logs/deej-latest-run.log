@@ -583,3 +583,4 @@
 2025-06-29 21:00:57.681	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
 2025-06-29 21:00:57.681	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
 2025-06-29 21:00:57.761	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-07-01 01:15:35.555	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
