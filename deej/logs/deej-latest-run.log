@@ -584,3 +584,30 @@
 2025-06-29 21:00:57.681	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
 2025-06-29 21:00:57.761	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
 2025-07-01 01:15:35.555	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-07-02 00:05:00.392	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<5 audio sessions>"}
+2025-07-02 00:47:19.904	info	deej                       	Stopping
+2025-07-02 00:48:59.144	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-07-02 00:48:59.174	info	deej.config                	Loaded config successfully
+2025-07-02 00:48:59.174	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-07-02 00:48:59.174	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-07-02 00:48:59.175	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-07-02 00:48:59.175	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-07-02 00:48:59.175	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-07-02 00:48:59.175	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-07-02 00:48:59.218	info	deej                       	Run loop starting
+2025-07-02 00:48:59.229	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-07-02 00:48:59.824	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-07-02 00:52:18.165	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<4 audio sessions>"}
+2025-07-02 01:47:05.260	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<3 audio sessions>"}
+2025-07-02 01:58:53.876	info	deej                       	Stopping
+2025-07-02 14:29:23.572	info	main                       	Version info	{"gitCommit": "", "versionTag": "", "buildType": "release"}
+2025-07-02 14:29:23.607	info	deej.config                	Loaded config successfully
+2025-07-02 14:29:23.607	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-07-02 14:29:23.607	warn	deej.session_finder        	Failed to get master sink info	{"error": "pulseaudio: no such entity"}
+2025-07-02 14:29:23.607	warn	deej.session_finder        	Failed to get master audio sink session	{"error": "get master sink info: pulseaudio: no such entity"}
+2025-07-02 14:29:23.607	warn	deej.session_finder        	Failed to get master source info	{"error": "pulseaudio: no such entity"}
+2025-07-02 14:29:23.607	warn	deej.session_finder        	Failed to get master audio source session	{"error": "get master source info: pulseaudio: no such entity"}
+2025-07-02 14:29:23.607	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<0 audio sessions>"}
+2025-07-02 14:29:23.641	info	deej                       	Run loop starting
+2025-07-02 14:29:23.652	info	deej.serial./dev/ttyusb0   	Connected	{"conn": {}}
+2025-07-02 14:29:24.248	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
