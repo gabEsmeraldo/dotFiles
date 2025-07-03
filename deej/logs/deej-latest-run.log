@@ -663,3 +663,12 @@
 2025-07-03 00:14:44.799	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
 2025-07-03 00:21:31.901	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<7 audio sessions>"}
 2025-07-03 00:25:32.652	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-07-03 01:00:28.706	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-07-03 01:00:53.612	info	deej.config                	Loaded config successfully
+2025-07-03 01:00:53.612	info	deej.config                	Config values	{"sliderMapping": "<4 sliders mapped to 4 targets>", "connectionInfo": {"COMPort":"/dev/ttyUSB0","BaudRate":9600}, "invertSliders": false}
+2025-07-03 01:00:53.612	info	deej.config                	Reloaded config successfully
+2025-07-03 01:00:53.612	info	deej.notifier              	Sending toast notification	{"title": "Configuration reloaded!", "message": "Your changes have been applied."}
+2025-07-03 01:00:53.615	info	deej.sessions              	Detected config reload, attempting to re-acquire all audio sessions
+2025-07-03 01:00:53.616	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
+2025-07-03 01:00:53.683	info	deej.serial./dev/ttyusb0   	Detected sliders	{"amount": 4}
+2025-07-03 01:03:12.892	info	deej.sessions              	Got all audio sessions successfully	{"sessionMap": "<6 audio sessions>"}
